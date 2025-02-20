@@ -24,7 +24,6 @@ You need four buttons, four LEDs, resistors, and optionally a speaker/buzzer. Id
 4. Select the clock frequency (using the clk3 and clk1 inputs).
 5. Reset the game, and then press any button to start it. Enjoy!
 
-
 ## External hardware
 
 Four push buttons (with pull-down resistors), four LEDs, and optionally a speaker/buzzer
